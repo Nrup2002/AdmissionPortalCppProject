@@ -6,6 +6,7 @@ This project file was created by me while studing C++ to explore my knowledge of
 System has three modules :
    -> Admin   Login
    -> Student Login
+   
 Most of features of object-oriented programming are used.
    -> Classes and Objects
    -> Data Abstraction and Encapsulation
