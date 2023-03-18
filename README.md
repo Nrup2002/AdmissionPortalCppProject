@@ -7,10 +7,10 @@ System has three modules :
    -> Admin   Login
    -> Student Login
 Most of features of object-oriented programming are used.
-  -> Classes and Objects
-  -> Data Abstraction and Encapsulation
-  -> Polymorphism : Function Overloading
-  -> Constructor and Destructor 
-  -> Single Inheretance
-  -> File Handling
-  -> Also function overriding, Friend Function and Template
+   -> Classes and Objects
+   -> Data Abstraction and Encapsulation
+   -> Polymorphism : Function Overloading
+   -> Constructor and Destructor 
+   -> Single Inheretance
+   -> File Handling
+   -> Also function overriding, Friend Function and Template
