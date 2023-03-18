@@ -18,8 +18,8 @@ Most of features of object-oriented programming are used.
 
    ---------------------------------------------------------------------
    
-*This project was created by me 2 years ago from now (March 2023) https://github.com/Nrup2002/Tic-Tac-Toe/blob/1b4f00e9392638f290b92f38605ec0ca3cc706a5/Admission%20Portal%20Cpp%20Project.cpp
-Im creating this new repository to catogorize my projects.*
+*This project was created by me 2 years ago from now (March 2023). I'm creating this new repository to catogorize my projects. Check it out !*
+ https://github.com/Nrup2002/Tic-Tac-Toe/blob/1b4f00e9392638f290b92f38605ec0ca3cc706a5/Admission%20Portal%20Cpp%20Project.cpp
    
    ---------------------------------------------------------------------
    
