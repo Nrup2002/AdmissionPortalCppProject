@@ -16,7 +16,7 @@ Most of the features of object-oriented programming are used.
 -   -> File Handling
 -   -> Also function overriding, Friend Function and Template
    
-- 👋 Hi, I’m @Nrup2002
+  👋 Hi, I’m @Nrup2002
    - 👀 I’m interested in Programming.
    - 🌱 I’m currently learning PYTHON.
    - 💞️ I’m looking to collaborate on Project-based works.
